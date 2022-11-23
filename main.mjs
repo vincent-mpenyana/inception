@@ -44,7 +44,4 @@ function statement(invoice, plays) {
     return result;
 }
 
-console.log("Testing git configuration")
-
-
 console.log(statement(invoices[0], plays));
